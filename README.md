@@ -1,3 +1,5 @@
+![image](https://github.com/sarankumar007/MovieApi_Backend_Springboot/assets/93342856/c7f308c6-f8a2-4946-90fd-e22ed2f8d904)
+
 # Movie Review Backend
 
 This repository contains the backend code for a Spring Boot application that provides API calls to retrieve movie details and post reviews.
