@@ -17,7 +17,7 @@ To get started with this project, follow the instructions below.
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/movie-review-backend.git
+   git clone https://github.com/sarankumar007/MovieApi_Backend_Springboot.git
    ```
 
 2. Navigate to the project directory:
