@@ -1,4 +1,4 @@
-package com.sk.movies;
+package com.sk.movies.Entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

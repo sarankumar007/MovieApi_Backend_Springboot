@@ -1,9 +1,9 @@
-package com.sk.movies;
+package com.sk.movies.Service;
 
-import org.bson.types.ObjectId;
+import com.sk.movies.Entity.Movie;
+import com.sk.movies.Repository.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.PathVariable;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,5 +1,6 @@
-package com.sk.movies;
+package com.sk.movies.Repository;
 
+import com.sk.movies.Entity.Movie;
 import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
